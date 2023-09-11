@@ -8,5 +8,5 @@ The 30-Day GitHub Challenge is a self-paced coding challenge that encourages me 
 
 
 ## Contact
-For any inquiries, please contact us at [ymurikinati@email.com]
+For any inquiries, please contact us at [ymurikinati@gmail.com]
 Happy coding, and let's make the next 30 days count!
