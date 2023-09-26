@@ -1,4 +1,4 @@
-#Europe Economy Gap Analysis
+## Europe Economy Gap Analysis
 
 This repository contains Python code for analyzing Europe's economy, focusing on various economic indicators such as GDP, interest rate, inflation rate, and more. The analysis is performed using data visualization techniques and clustering algorithms.
 
